@@ -18,7 +18,7 @@ Legacy financial software traps families inside proprietary vendor silos and bla
 ### 🚀 What I'm Building
 - **Pennywise ([bepennywise.co](https://bepennywise.co)):** An AI-first planning platform anchored on household data sovereignty, deterministic machine learning, and audit-ready advice orchestration.
   - *Note: The live web link showcases our active UI/UX design prototype as we integrate our backend engine.*
-- **Canadian Household Financial Resilience Study — CHFRI ([github.com/pennywise-ca](https://github.com/pennywise-ca)):** An active, evolving empirical research initiative analyzing Statistics Canada Survey of Financial Security microdata (1999–2023) and a 500,000-profile synthetic data engine. Currently in active development as we continuously integrate new variables, longitudinal data points, and refinements to build an even stronger, more capable resilience model.
+- **Canadian Household Financial Resilience Study — CHFRI ([github.com/pennywise-ca/chfri-methodology](https://github.com/pennywise-ca/chfri-methodology)):** An active, evolving empirical research initiative analyzing Statistics Canada Survey of Financial Security microdata (1999–2023) and a 500,000-profile synthetic data engine. Currently in active development as we continuously integrate new variables, longitudinal data points, and refinements to build an even stronger, more capable resilience model.
 
 ---
 
